@@ -28,3 +28,8 @@ Chapter 9 - Streaming
 Chapter 10 - Partial Prerendering (Optional)
 
 Chapter 11 - Adding Search and Pagination
+
+----
+Dependências:
+use-debounce
+next-auth@beta
