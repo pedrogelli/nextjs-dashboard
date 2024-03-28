@@ -32,4 +32,5 @@ Chapter 11 - Adding Search and Pagination
 ----
 Dependências:
 use-debounce
+
 next-auth@beta
