@@ -10,6 +10,8 @@ Para fazer login use:
 
     password: 123456
 
+É possivel criar invoices e editar invoices.
+Existe um delay proposital nas ações de criar e editar invoices.
 
 Tutorial disponível no link: https://nextjs.org/learn/dashboard-app
 
