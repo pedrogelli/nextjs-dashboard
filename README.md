@@ -3,10 +3,11 @@ Tutorial da Vercel mostrando as últimas features do Next.js ao criar um dashboa
 O tutorial explora características modernas que diferenciam o Next.js de outros frameworks, mostrando como aplicar cada nova função e suas vantagens.
 
 O projeto está hospedado gratuitamente na Vercel no link: https://nextjs-dashboard-beta-five-94.vercel.app/
+
 Para fazer login use:
 
     email: user@nextmail.com
-    
+
     password: 123456
 
 
