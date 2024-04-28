@@ -4,7 +4,9 @@ O tutorial explora características modernas que diferenciam o Next.js de outros
 
 O projeto está hospedado gratuitamente na Vercel no link: https://nextjs-dashboard-beta-five-94.vercel.app/
 Para fazer login use:
+
     email: user@nextmail.com
+    
     password: 123456
 
 
